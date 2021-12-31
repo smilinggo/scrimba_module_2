@@ -5,3 +5,12 @@ body {
 h2 {
     color: forestgreen;
 }
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+    background: #281B2D;
+    color: #FFF;
+    margin: 0;
+    padding: 25px 0;
+}
