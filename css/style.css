@@ -2,8 +2,12 @@ body {
     margin: 0;
 }
 
-h2 {
-    color: forestgreen;
+.subheader {
+    color: #FCd801;
+    background: #281B2D;
+    font-size: 48px;
+    border-bottom: 5px solid #00c54c;
+    padding: 10px;
 }
 
 h1 {

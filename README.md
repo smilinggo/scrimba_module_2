@@ -1,9 +1,9 @@
 # scrimba_module_2
-Challenge #5
+Challenge #6
 
-Styling the title Bar
+Styling the subheadings
   
 No adding extra HTML  
-Must touch the top of the page  
-Font size: 72px  
-Colors: #FFF and #281B2D  
+Add the same class to both headings  
+Font size: 48px  
+Colors: #FCD801, #281B2D, #00C54C
