@@ -1,9 +1,8 @@
 # scrimba_module_2
-Challenge #6
+Challenge #7
 
-Styling the subheadings
-  
-No adding extra HTML  
-Add the same class to both headings  
-Font size: 48px  
-Colors: #FCD801, #281B2D, #00C54C
+Style the last words of both subheading to have a little extra style  
+
+Add extra HTML
+Give the new element you add a class
+All it should do is change the color of the text to #FFF
