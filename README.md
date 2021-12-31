@@ -1,8 +1,6 @@
 # scrimba_module_2
-Challenge #7
+Challenge #8  
 
-Style the last words of both subheading to have a little extra style  
-
-Add extra HTML
-Give the new element you add a class
-All it should do is change the color of the text to #FFF
+Wrap all content inside the main element inside a <div class="container">  
+Give it a width to stop it from becoming too wide. 1000px or so would work nicely in this case.  
+Make it centered on the page  
