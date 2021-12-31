@@ -13,6 +13,13 @@ h1 {
     padding: 25px 0;
 }
 
+a {
+    color: #281B2D;
+}
+
+a:hover {
+    color: #fff;
+}
 
 /* solution with header styled */
 
@@ -34,6 +41,7 @@ h1 {
     font-size: 48px;
     padding: 20px;
     border-bottom: 5px solid #00C54C;
+    margin-top: 0;
 }
 
 .white-text { color: #fff }
@@ -55,9 +63,14 @@ h1 {
 
 .sidebar {
     width: 30%;
+    background: #9AE84F;
+    padding: 15px;
 }
 
-.column-right {
-    margin-left: 5px;
+.source {
+    font-size: 12px;
 }
 
+.col-right {
+    margin-left: 25px; 
+}
